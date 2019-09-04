@@ -1,0 +1,12 @@
+div{
+  margin: 150px 150px 150px;
+  border: 10px solid red;
+  background: yellow;
+  width:190px;
+  height:90px;
+  padding: 32px 32px 32px;
+
+}
+  /*al agregar los pixeles del padding hay que sumarlos a los del height,
+  y esto tiene que ir calculado
+/* Esto queda de manera sencilla, sin conseguir ver el margen naranja del padding
